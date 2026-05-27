@@ -85,16 +85,16 @@ Clean, structured analytical scripting
 
 **📊 Data Wrangling**<br>
 Using Pandas for:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Cleaning
-&nbsp;&nbsp;&nbsp;&nbsp;• Transformation
-&nbsp;&nbsp;&nbsp;&nbsp;• Validation
-&nbsp;&nbsp;&nbsp;&nbsp;• Standardization
+&nbsp;&nbsp;&nbsp;&nbsp;• Cleaning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Transformation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Validation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Standardization<br>
 
 **📐 Statistical Analysis**<br>
-Applying:
-&nbsp;&nbsp;&nbsp;&nbsp;• Quantile calculations
-&nbsp;&nbsp;&nbsp;&nbsp;• IQR outlier detection
-&nbsp;&nbsp;&nbsp;&nbsp;• Threshold-based anomaly handling
+Applying:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Quantile calculations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• IQR outlier detection<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Threshold-based anomaly handling<br>
 
 **🔍 Data Quality Assurance**<br>
 Systematic validation of business-critical records
@@ -102,11 +102,11 @@ Systematic validation of business-critical records
 **🧠 Analytical Problem Solving**<br>
 Diagnosing and resolving real-world data integrity issues
 
-## 🧰 Tools & Libraries Used
-&nbsp;&nbsp;&nbsp;&nbsp;• Python
-&nbsp;&nbsp;&nbsp;&nbsp;• Pandas
-&nbsp;&nbsp;&nbsp;&nbsp;• NumPy
-&nbsp;&nbsp;&nbsp;&nbsp;• Jupyter Notebook
+## 🧰 Tools & Libraries Used<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Pandas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• NumPy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Jupyter Notebook<br>
 
 ## 📂 Project Workflow
 ```
@@ -126,32 +126,32 @@ Clean Dataset Export
 ```
 
 ## 📈 Key Learning Outcomes
-Through this project, I strengthened my ability to:
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Diagnose messy business data
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Apply structured cleaning workflows
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Enforce analytical business rules
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Prepare datasets for downstream analysis
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Build reproducible preprocessing pipelines
+Through this project, I strengthened my ability to:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Diagnose messy business data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Apply structured cleaning workflows<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Enforce analytical business rules<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Prepare datasets for downstream analysis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Build reproducible preprocessing pipelines<br>
 
 ## 🎯 Why This Project Matters
 Data cleaning is one of the most critical stages of the analytics lifecycle.<br>
 
-This project demonstrates practical skills used in:
-&nbsp;&nbsp;&nbsp;&nbsp;• Data Analytics
-&nbsp;&nbsp;&nbsp;&nbsp;• Business Intelligence
-&nbsp;&nbsp;&nbsp;&nbsp;• Marketing Analytics
-&nbsp;&nbsp;&nbsp;&nbsp;• Risk Analytics
-&nbsp;&nbsp;&nbsp;&nbsp;• ETL/Data Preparation
+This project demonstrates practical skills used in:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Data Analytics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Business Intelligence<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Marketing Analytics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Risk Analytics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• ETL/Data Preparation<br>
 
 It reflects the ability to convert unreliable raw data into trustworthy analytical assets.
 
 ## 🧠 Skills Exhibited
-This notebook highlights:
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Attention to detail
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Data validation discipline
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Analytical reasoning
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Business-focused problem solving
-&nbsp;&nbsp;&nbsp;&nbsp;✨ Reproducible workflow design
+This notebook highlights:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Attention to detail<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Data validation discipline<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Analytical reasoning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Business-focused problem solving<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Reproducible workflow design<br>
 
 ## 📌 Repository Contents
 ```
@@ -159,3 +159,5 @@ PYTHON_MARKETING_CAMPAIGN_DATA_CLEANING.ipynb
 README.md
 marketing_campaign_data_messy.csv
 ```
+
+View notebook with detailed steps here: 

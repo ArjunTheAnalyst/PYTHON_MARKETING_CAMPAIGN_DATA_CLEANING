@@ -38,3 +38,122 @@ Converts financial values into clean numeric format for analysis.
 ```
 $4,500 → 4500
 ```
+
+**🏷️ 3. Categorical Data Correction**
+Fixes inconsistent channel labels such as:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Facebok → Facebook<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Gogle → Google<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Tik_Tok → TikTok<br>
+This prevents fragmented grouped analysis.
+
+**✅ 4. Boolean Normalization**<br>
+Converts mixed active status representations into standardized boolean values.<br>
+
+**Before**<br>
+```
+Y, Yes, 1, No, 0
+```
+
+**After**<br>
+```
+True / False
+```
+
+**📅 5. Date Validation**<br>
+Corrects temporal inconsistencies where:<br>
+```
+end_date < start_date
+```
+Ensures campaign timelines are logically valid.<br>
+
+**📊 6. Logical Business Rule Validation**<br>
+Validates campaign metrics using business rules such as:
+```
+clicks ≤ impressions
+```
+
+**📈 7. Outlier Detection & Treatment**<br>
+Applies IQR-based capping to manage extreme spend values that could distort analysis.<br>
+
+## 💻 Technical Skills Demonstrated
+This project showcases proficiency in:
+
+**🐍 Python Programming**<br>
+Clean, structured analytical scripting
+
+**📊 Data Wrangling**<br>
+Using Pandas for:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Cleaning
+&nbsp;&nbsp;&nbsp;&nbsp;• Transformation
+&nbsp;&nbsp;&nbsp;&nbsp;• Validation
+&nbsp;&nbsp;&nbsp;&nbsp;• Standardization
+
+**📐 Statistical Analysis**<br>
+Applying:
+&nbsp;&nbsp;&nbsp;&nbsp;• Quantile calculations
+&nbsp;&nbsp;&nbsp;&nbsp;• IQR outlier detection
+&nbsp;&nbsp;&nbsp;&nbsp;• Threshold-based anomaly handling
+
+**🔍 Data Quality Assurance**<br>
+Systematic validation of business-critical records
+
+**🧠 Analytical Problem Solving**<br>
+Diagnosing and resolving real-world data integrity issues
+
+## 🧰 Tools & Libraries Used
+&nbsp;&nbsp;&nbsp;&nbsp;• Python
+&nbsp;&nbsp;&nbsp;&nbsp;• Pandas
+&nbsp;&nbsp;&nbsp;&nbsp;• NumPy
+&nbsp;&nbsp;&nbsp;&nbsp;• Jupyter Notebook
+
+## 📂 Project Workflow
+```
+Raw Dataset
+   ↓
+Initial Inspection
+   ↓
+Data Cleaning
+   ↓
+Validation Checks
+   ↓
+Anomaly Correction
+   ↓
+Outlier Treatment
+   ↓
+Clean Dataset Export
+```
+
+## 📈 Key Learning Outcomes
+Through this project, I strengthened my ability to:
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Diagnose messy business data
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Apply structured cleaning workflows
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Enforce analytical business rules
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Prepare datasets for downstream analysis
+&nbsp;&nbsp;&nbsp;&nbsp;✔️ Build reproducible preprocessing pipelines
+
+## 🎯 Why This Project Matters
+Data cleaning is one of the most critical stages of the analytics lifecycle.<br>
+
+This project demonstrates practical skills used in:
+&nbsp;&nbsp;&nbsp;&nbsp;• Data Analytics
+&nbsp;&nbsp;&nbsp;&nbsp;• Business Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;• Marketing Analytics
+&nbsp;&nbsp;&nbsp;&nbsp;• Risk Analytics
+&nbsp;&nbsp;&nbsp;&nbsp;• ETL/Data Preparation
+
+It reflects the ability to convert unreliable raw data into trustworthy analytical assets.
+
+## 🧠 Skills Exhibited
+This notebook highlights:
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Attention to detail
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Data validation discipline
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Analytical reasoning
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Business-focused problem solving
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Reproducible workflow design
+
+## 📌 Repository Contents
+```
+PYTHON_MARKETING_CAMPAIGN_DATA_CLEANING.ipynb
+README.md
+marketing_campaign_data_messy.csv
+```

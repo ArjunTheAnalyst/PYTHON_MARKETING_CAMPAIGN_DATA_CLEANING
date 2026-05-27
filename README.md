@@ -71,7 +71,7 @@ Ensures campaign timelines are logically valid.<br>
 **📊 6. Logical Business Rule Validation**<br>
 Validates campaign metrics using business rules such as:
 ```
-clicks ≤ impressions
+clicks < impressions
 ```
 
 **📈 7. Outlier Detection & Treatment**<br>

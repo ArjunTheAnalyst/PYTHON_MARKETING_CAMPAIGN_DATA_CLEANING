@@ -19,8 +19,8 @@ However, poor data quality can lead to:<br>
 ❌ Misleading campaign performance metrics<br>
 ❌ Incorrect customer insights<br>
 ❌ Faulty budget allocation decisions<br>
-❌ Inaccurate business reporting<br>\n
-This project solves that problem by applying structured data quality remediation techniques to ensure analytical integrity.
+❌ Inaccurate business reporting<br>
+\nThis project solves that problem by applying structured data quality remediation techniques to ensure analytical integrity.
 
 ## 🛠️ What This Project Solves
 The notebook addresses common real-world data quality issues, including:<br>

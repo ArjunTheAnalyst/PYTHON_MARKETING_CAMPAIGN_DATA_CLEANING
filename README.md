@@ -160,4 +160,4 @@ README.md
 marketing_campaign_data_messy.csv
 ```
 
-View notebook with detailed steps here: 
+View notebook with detailed steps here: [MARKETING CAMPAIGN DATA CLEANING](PYTHON_MARKETING_CAMPAIGN_DATA_CLEANING.ipynb)

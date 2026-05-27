@@ -45,6 +45,7 @@ Fixes inconsistent channel labels such as:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Facebok → Facebook<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Gogle → Google<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Tik_Tok → TikTok<br>
+<br>
 This prevents fragmented grouped analysis.
 
 **✅ 4. Boolean Normalization**<br>
